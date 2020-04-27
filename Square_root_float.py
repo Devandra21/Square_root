@@ -89,4 +89,4 @@ lmt = ''.join(q)
 #    m=10*m+q[0]
 #    q.remove(q[0])
 print("The required square root of",a,"is",lmt)
-print("The square root of",a,"using inbuilt function is",math.sqrt(float(a)))
+#print("The square root of",a,"using inbuilt function is",math.sqrt(float(a)))
